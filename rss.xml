@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>TITLE_OF_THIS_FEED</title>
+<link>LINK_TO_YOUR_HOMEPAGE</link> <!--must be a link-->
+<description>DESCRIPTION</description>
+<atom:link href="https://LINK_TO_YOUR_RSS_FEED/rss.xml" type="application/rss+xml" rel="self"></atom:link>
+<language>en</language>
+<copyright>LINK_OR_NAME</copyright>
+<lastBuildDate>12 Apr 2018 19:16:17 GMT</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+<!-- START FIRST POST -->
+<item>
+<title>TITLE_OF_THIS_POST</title>
+<link>LINK_TO_POST_OR_HOMEPAGE</link> <!--optional-->
+<dc:creator>YOUR_NAME</dc:creator> <!--optional-->
+
+<description>
+Your content for the first post&lt;br&gt;
+Second Row&lt;br&gt;
+&lt;b&gt;FAT&lt;/b&gt;
+</description>
+
+
+<guid>LINK_TO_HOMEPAGE</guid> <!--A string that uniquely identifies the item.-->
+<pubDate>12 Apr 2018 15:00:01 GMT</pubDate></item>
+<!-- END FIRST POST -->
+
+<!-- START SECOND POST -->
+<item>
+<title>TITLE_OF_THIS_POST_2</title>
+<link>LINK_TO_POST_OR_HOMEPAGE</link>
+<dc:creator>YOUR_NAME</dc:creator>
+
+<description>
+Your content for the second post&lt;br&gt;
+Second Row&lt;br&gt;
+&lt;b&gt;FAT&lt;/b&gt;
+
+</description>
+
+
+<guid>LINK_TO_HOMEPAGE</guid>
+<pubDate>13 Apr 2018 15:00:01 GMT</pubDate></item>
+<!-- END SECOND POST -->
+
+
+</channel>
+</rss>
+<!-- FOR MORE INFORMATION AND UPDATES https://github.com/cwcopa/simple_rss-->
