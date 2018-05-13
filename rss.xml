@@ -23,7 +23,7 @@ Second Row&lt;br&gt;
 </description>
 
 
-<guid>LINK_TO_HOMEPAGE</guid> <!--A string that uniquely identifies the item.-->
+<guid>LINK_TO_POSTE</guid> <!--A string that uniquely identifies the item/ for example in Thunderbird it will be interpreted as the link to this post.-->
 <pubDate>12 Apr 2018 15:00:01 GMT</pubDate></item>
 <!-- END FIRST POST -->
 
@@ -41,7 +41,7 @@ Second Row&lt;br&gt;
 </description>
 
 
-<guid>LINK_TO_HOMEPAGE</guid>
+<guid>LINK_TO_POST</guid>
 <pubDate>13 Apr 2018 15:00:01 GMT</pubDate></item>
 <!-- END SECOND POST -->
 
